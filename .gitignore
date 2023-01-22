@@ -1,0 +1,8 @@
+# NodeJS
+node_modules
+
+# VSCode
+.vscode
+.vscode-test
+.vscode-test-data
+.vscode-test-data/extensions
